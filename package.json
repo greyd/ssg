@@ -1,0 +1,23 @@
+{
+  "name": "ssg",
+  "version": "1.0.0",
+  "description": "static site generator concept",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greyd/ssg.git"
+  },
+  "author": "Valerii Pavlov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greyd/ssg/issues"
+  },
+  "homepage": "https://github.com/greyd/ssg",
+  "dependencies": {
+    "express": "^4.10.7",
+    "gulp": "^3.8.10"
+  }
+}
